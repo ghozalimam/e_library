@@ -22,21 +22,6 @@ Dart - Bahasa pemrograman yang digunakan dengan Flutter untuk membangun UI inter
 Provider - Untuk manajemen state.
 SQLite - Database
 
-🔧 Instalasi
-Clone Repository:
-bash
-git clone https://github.com/ghozalimam/myapp.git
-cd myapp
-
-Install Dependencies: Jalankan perintah berikut untuk menginstall dependency yang dibutuhkan:
-bash
-flutter pub get
-
-Run Aplikasi:
-bash
-flutter run
-📝 Konfigurasi
-Pastikan kamu telah mengaktifkan emulator atau menghubungkan perangkat fisik yang sesuai untuk menjalankan aplikasi.
 
 💡 Cara Penggunaan
 Buka aplikasi untuk melihat daftar buku.
