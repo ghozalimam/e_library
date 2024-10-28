@@ -37,6 +37,3 @@ Tambahkan dependensi lainnya di pubspec.yaml sesuai kebutuhan.
 🤝 Kontribusi
 Kami terbuka untuk kontribusi dari siapa saja! Jika kamu ingin memperbaiki bug, menambahkan fitur baru, atau meningkatkan dokumentasi, silakan buat pull request.
 
-📜 Lisensi
-Proyek ini dilisensikan di bawah MIT License.
-
